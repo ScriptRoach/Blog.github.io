@@ -1,0 +1,87 @@
+body {
+    overflow-x: hidden;
+	background-color: lightgrey;
+	height: 200%;
+   } .heading {
+   float: right;
+   width: 45%;
+   height: 8%;
+   display: table;
+   position: sticky;
+   
+    }.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}  .fa:hover {
+    opacity: 0.7;
+} .fa-instagram {
+  background: #125688;
+  color: white
+   } .fa-youtube {
+  background: #bb0000;
+  color: white;
+  
+  } .list {
+   font: 15px arial, sans-serif;
+   width: 20%;
+   height: 30%;
+   padding: auto;
+   display: display: block;
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+	 
+  } .list:hover {
+   background-color: rgb(229, 229, 229);
+   border-radius: 1px;
+   
+  } .block {
+   background-color: #686c70;
+   width: 120%;
+   height: 4%;
+   top: 7%;
+   position: relative;
+   left: -10;
+  }.post{
+      background-color: #abaeb2;
+      
+   width: 60%;
+   height: 30%;
+   margin: auto;
+   margin-top: 10%;
+  } a {
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+  } .banner {
+  width: 110%;
+  left: -10;
+   position: relative;
+   bottom: 10%;
+  border-bottom-color: #686c70;
+  border-bottom-style: solid;
+  border-width: 4%;
+  } .duck {
+  height: 100%;
+  border-right-color: #c6c9ce;
+  border-right-style: solid;
+  } p {
+  top: 80%;
+  }.media {
+    z-index: 1;
+    display: table-column;
+    left: -10;
+    overflow-x: hidden;
+    padding-top: 20px;
+	position: absolute;
+	top: 105%;
+	width: 10%;
+  } .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  display: table-cell;
+  }
